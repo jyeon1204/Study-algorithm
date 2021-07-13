@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//거스름돈 알고리즘 
 
 int main(){
 	int coin[] = {500, 100, 50, 10};
