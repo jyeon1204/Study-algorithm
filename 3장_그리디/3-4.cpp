@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//1이 될 때 까지 
 
 int main(){
 	int n,k;
