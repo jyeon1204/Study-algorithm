@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
-
-using namespace std;
+#include <iostream>
+using namespace std; 
+//큰 수의 법칙 
 
 int n, m, k;
 vector<int> v;
