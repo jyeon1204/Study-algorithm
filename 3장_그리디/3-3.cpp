@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//카드게임 알고리즘 
 
 int n, m;
 int result;
