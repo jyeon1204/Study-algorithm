@@ -4,7 +4,7 @@ using namespace std;
 
 bool visited[9];
 vector<int> graph[9];
-//int 형이 들어가는 graph라는 배열을 벡터형으로 만들었음(각각이 하나의 노드에서 시작하는 노선의 출발점이 됨) 
+//int 형이 들어가는 graph라는 벡터를  9개 만들었음(각각이 하나의 노드에서 시작하는 노선의 출발점이 됨) 
 
 // DFS 함수 정의
 void dfs(int x) {
